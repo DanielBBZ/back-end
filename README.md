@@ -2,6 +2,7 @@
 
 #### Backend delpoyed at 👉 [Staging API](https://covid19-us-api-staging.herokuapp.com/) <br>
 
+[![CodeFactor](https://www.codefactor.io/repository/github/ncov19-us/back-end/badge/staging)](https://www.codefactor.io/repository/github/ncov19-us/back-end/overview/staging)
 
 ## 1️⃣ Getting started
 
